@@ -1,0 +1,1 @@
+{"root":["./src/main.ts","./src/vite-env.d.ts","./src/App.vue","./src/components/AddUrlModal.vue","./src/components/EditUrlModal.vue","./src/components/HelloWorld.vue","./src/components/UrlList.vue"],"version":"5.6.2"}
